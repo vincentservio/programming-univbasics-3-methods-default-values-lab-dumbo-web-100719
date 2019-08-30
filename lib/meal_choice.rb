@@ -1,6 +1,6 @@
 # Your code here
 
- "What a nutritious meal!"
+p "What a nutritious meal!" + meal_choice
  
 def meal_choice (broccoli,macaroni,protein = "meat")
 
