@@ -7,4 +7,4 @@ p "A plate of #{protein} with #{broccoli} and #{macaroni}."
 end
 
 
-p healthy_meal = "What a nutritious meal!"
+ "What a nutritious meal!"
